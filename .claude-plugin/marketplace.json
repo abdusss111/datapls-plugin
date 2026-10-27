@@ -1,0 +1,15 @@
+{
+  "name": "datapls",
+  "description": "Плагины datapls для Claude",
+  "owner": {
+    "name": "datapls"
+  },
+  "plugins": [
+    {
+      "name": "datapls",
+      "source": "./",
+      "description": "Розничная аналитика datapls",
+      "version": "0.1.0"
+    }
+  ]
+}

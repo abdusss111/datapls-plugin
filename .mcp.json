@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "datapls": {
+      "type": "http",
+      "url": "https://api.datapls.io/mcp"
+    }
+  }
+}
